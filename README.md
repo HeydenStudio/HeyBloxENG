@@ -3,6 +3,8 @@
 
 <img width="2582" height="500" alt="nvets" src="https://github.com/user-attachments/assets/9740d8ed-1ba5-4595-8319-6f4b0fd601e5" />
 
+# RU repo : https://github.com/HeydenStudio/HeyBlox/tree/main
+
 # HeyBlox
 HeyBlox Project Description
 HeyBlox is a revival based on Novetus where you can publish your accessories, publish your places, etc. (The source code will be on GitHub soon, once the first version of HeyBlox is out.)
@@ -63,12 +65,8 @@ https://heybloxdiscord.neocities.org
 
 Link to the main Heyden Studio Discord server
 https://discord.gg/RzbXsfCQ3P
-# HeyBlox [RU DOWNLOAD TUTORIAL]
-1. ОБЕЗАТЕЛЬНО разархивируете файл на диске "C" если вы его разархивируете его не на "C" то будет очень много проблем на стороне клиента
-2. Не выделяйте папку при раз архивации в WinRAR
-3. Не переименовываете папку после раз архивации
-# HeyBlox [EN DOWNLOAD TUTORIAL]
+# How Download?
 1. You MUST extract the file to the "C" drive. If you extract it anywhere other than "C", there will be a lot of problems on the client side.
 2. Don't select the folder when extracting in WinRAR.
 3. Don't rename the folder after extracting.
-<img width="294" height="65" alt="Screenshot_2026-10-19_at_22-27-40_Old_Roblox_Font_шрифт-removebg-preview" src="https://github.com/user-attachments/assets/ad25f2f8-0eea-4fdb-bca6-cbd5446af044" />
+
